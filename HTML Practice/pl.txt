@@ -1,0 +1,14 @@
+for (int j = i; j == n-i; j++)
+        {
+            printf(" ");
+        }
+        for (int k = 0; k==i; k++)
+        {
+            printf("#");
+        }
+        printf(" \n");
+        for (int k = 0; k==i; k++)
+        {
+            printf("#");
+        }
+        printf(" \n");
