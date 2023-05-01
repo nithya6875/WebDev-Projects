@@ -1,0 +1,54 @@
+.content-box {
+    height: 100%;
+    width: 100%; 
+    background-color: #FFF9DE; 
+    position: absolute;
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+}
+
+.name-box {
+    min-height: 300px;
+    background-color: #A6D0DD;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.name {
+    color: #FF6969;
+    font-family: 'Sigmar', cursive;
+    font-size: 80px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+
+.about-me-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.about-me {
+    text-align: center;
+    width: 70%;
+    height: 40%;
+    font-family: 'Caveat', cursive;
+    padding-top: 50px;
+    color: #FF6969;
+    margin-bottom: 50px;
+}
+
+.h3 {
+    font-size: 50px;
+}
+
+.p {
+    font-size: 45px;
+}

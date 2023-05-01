@@ -1,0 +1,50 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0px;
+    height: 100%;
+    padding: 0;
+    display: flex;
+}
+
+.left-section {
+    width: 35%;
+    margin-right: 70px;
+    height: 100vh;
+    background-color: white;
+    float: left;
+}
+
+.right-section {
+    
+    width: 65%;
+    height: 100vh;
+    float: left;
+    background-color: white;
+}
+
+.intro-box {
+    width: auto;
+    height: 200px;
+    background-color: #daa40f;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: circle;
+    color: #daa40f;
+}
+
+li {
+    color: black;
+}
+
+progress::-webkit-progress-value {
+    background-color: #daa40f;
+    color: black;
+}
+
+
+
