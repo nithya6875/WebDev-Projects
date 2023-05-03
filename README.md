@@ -100,3 +100,108 @@
 1. The time element
 1. The picture element
 1. The canvas element
+
+
+## Concepts in CSS
+1. CSS specificity
+2. CSS inheritance
+3. The box model
+4. Positioning
+5. Display property
+6. Flexbox layout
+7. Grid layout
+8. CSS transforms
+9. CSS transitions
+10. CSS animations
+11. CSS filters
+12. CSS variables (custom properties)
+13. Media queries
+14. Responsive typography
+15. The cascade
+16. Pseudo-classes
+17. Pseudo-elements
+18. Attribute selectors
+19. Combinators
+20. Child selectors
+21. Adjacent sibling selectors
+22. General sibling selectors
+23. Attribute selectors with values
+24. Structural pseudo-classes
+25. Custom fonts
+26. Font stacking
+27. Font smoothing
+28. Font loading strategies
+29. Color theory
+30. HSL and HSLA color values
+31. CSS gradients
+32. CSS shapes
+33. CSS clip-path
+34. CSS masks
+35. CSS variables in calc()
+36. The calc() function
+37. CSS counters
+38. The content property
+39. The quotes property
+40. The attr() function
+41. The counter() function
+42. The :empty pseudo-class
+43. The :not() pseudo-class
+44. The :checked pseudo-class
+45. The :target pseudo-class
+46. The :hover pseudo-class
+47. The :focus pseudo-class
+48. The :active pseudo-class
+49. The :visited pseudo-class
+50. The ::before and ::after pseudo-elements
+51. The ::first-letter and ::first-line pseudo-elements
+52. The ::selection pseudo-element
+53. The ::placeholder pseudo-element
+54. The transform property
+55. The transform-origin property
+56. The perspective property
+57. The backface-visibility property
+58. The transition property
+59. The transition-timing-function property
+60. The transition-delay property
+61. The animation property
+62. The animation-name property
+63. The animation-duration property
+64. The animation-timing-function property
+65. The animation-delay property
+66. The animation-iteration-count property
+67. The animation-direction property
+68. The animation-fill-mode property
+69. The filter property
+70. The contrast() function
+71. The brightness() function
+72. The blur() function
+73. The drop-shadow() function
+74. The grayscale() function
+75. The hue-rotate() function
+76. The invert() function
+77. The opacity property
+78. The text-shadow property
+79. The box-shadow property
+80. The grid-template-columns property
+81. The grid-template-rows property
+82. The grid-template-areas property
+83. The grid-template property
+84. The grid-column-start property
+85. The grid-column-end property
+86. The grid-row-start property
+87. The grid-row-end property
+88. The grid-column property
+89. The grid-row property
+90. The grid-area property
+91. The justify-content property
+92. The align-content property
+93. The justify-items property
+94. The align-items property
+95. The gap property
+96. The justify-self property
+97. The align-self property
+98. The order property
+99. The writing-mode property
+100. The direction property
+
+
