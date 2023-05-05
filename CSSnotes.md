@@ -2,7 +2,7 @@
 
 # CSS Display
 
-1. <span> </span> tag
+1. <p><span> </span> tag</p>
 
 ```
 selector {
