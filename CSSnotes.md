@@ -4,8 +4,8 @@
 
 1. <span> </span> tag
 
-'''
+```
 selector {
   display: inline-block;
   }
-'''
+```
