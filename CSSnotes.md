@@ -47,3 +47,17 @@ It's important to note that the display value of an element can be changed using
 11. initial
 12. inherit
 13. unset
+
+
+## Float property
+
+Used to wrap around text around elements. The element is floated to the given direction and the rest of the elementd end up wrapping around the element.
+
+Ways to acheive responsiveness in websites
+1. ## Media Queries
+
+3. ## Flexbox
+4. ## Grid
+5. ## External Frameworks - Bootstrap
+
+
