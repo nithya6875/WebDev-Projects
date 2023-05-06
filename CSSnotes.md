@@ -55,9 +55,49 @@ Used to wrap around text around elements. The element is floated to the given di
 
 Ways to acheive responsiveness in websites
 1. ## Media Queries
+There exists a media type in media queries which specifies to the devices the media query applies to.
+```
+@media screen and (max-width: 600px) {
+  /* Styles go here */
+}
+```
+Different media types that can be used with media queries - 
+In CSS, media types are used to define the category of device that is used to display a web page. Different types of media can have different display capabilities and characteristics, so it is important to use appropriate styles for each media type.
 
-3. ## Flexbox
-4. ## Grid
-5. ## External Frameworks - Bootstrap
+Here are the different media types in CSS:
+
+1. all: This is the default media type that applies to all devices.
+
+2. screen: This media type is used for devices with a screen, such as desktop computers, laptops, and mobile devices.
+
+3. print: This media type is used for printing devices such as printers or PDF generators.
+
+4. speech: This media type is used for devices that use a text-to-speech synthesizer to read out the content of a web page, such as screen readers for visually impaired users.
+
+5. handheld: This media type is used for small handheld devices, such as smartphones and PDAs.
+
+6. projection: This media type is used for projection devices such as projectors.
+
+7. braille: This media type is used for devices that render content in braille, such as refreshable braille displays.
+
+8. tty: This media type is used for devices that display content using a fixed-width font, such as teletype machines.
+
+By using different media types in CSS, you can ensure that your web page is optimized for different types of devices and users, making it more accessible and user-friendly.
+
+Different expressions that can be used -
+Width and height: These media features allow you to target specific screen sizes. For example, you can use the `min-width` and `max-width` features to apply styles to devices with a screen width that is greater than or less than a certain value.
+
+Orientation: This feature allows you to target devices that are in either portrait or landscape orientation.
+
+Resolution: This feature allows you to target devices with different display resolutions. For example, you can use the `min-resolution` and `max-resolution` features to apply styles to devices with a resolution that is greater than or less than a certain value.
+
+Aspect ratio: This feature allows you to target devices with a specific aspect ratio, such as 16:9 or 4:3.
+
+Color: This feature allows you to target devices with different color capabilities. For example, you can use the `color` and `color-index` features to apply styles to devices with a certain number of colors.
+
+2. ## Flexbox
+
+3. ## Grid
+4. ## External Frameworks - Bootstrap
 
 
